@@ -7,12 +7,4 @@ Added Admin Page to be added to the Database instead of storing the data locally
 
 Remove node modules from all three folders admin, frontend and backend
 
-Install Node, React
-install node(npm, npx)
-npm install react-router-dom
-npm install express
-npm install jsonwebtoken
-npm install mongoose
-npm install multer
-npm install cors
-npm create vite@latest . (with React and JavaScript)
+Install node(npm, npx), react-router-dom, express, jsonwebtoken, mongoose, multer, cors, create vite@latest . (with React and JavaScript).
